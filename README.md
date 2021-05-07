@@ -18,4 +18,5 @@ Pertenezco en el equipo 1 compartiendo con alumnos de Segundo Semestre de mi car
 * Fernando de Jesus Mendivil Terminel - A00232280
 
 ## LISTADO DE EJERCICIOS
-* Lista de los ejercicios contenidos en el repositorio
+* Obtención de estadísticas descriptivas
+* Mapas de calor y boxplots

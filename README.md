@@ -20,3 +20,4 @@ Pertenezco en el equipo 1 compartiendo con alumnos de Segundo Semestre de mi car
 ## LISTADO DE EJERCICIOS
 * Obtención de estadísticas descriptivas
 * Mapas de calor y boxplots
+* Patrones con K-means
